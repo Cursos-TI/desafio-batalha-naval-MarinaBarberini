@@ -4,7 +4,7 @@ int main() {
     // declaração da matriz do tabuleiro 5x5, inicializada com 0 (representando água)
     int tabuleiro[5][5] = {0};
 
-    // cordenadas iniciais para o navio horizontal (linha 1, coluna 0)
+    // coordenadas iniciais para o navio horizontal (linha 1, coluna 0)
     int linha_horizontal = 1;
     int coluna_horizontal = 0;
 
